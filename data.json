@@ -1,12 +1,17 @@
 [
   {
-    "lat": 51.87006,
-    "long": -176.642,
-    "desc": "Adak Volunteer Fire Department"
+    "lat": 41.92800,
+    "long": -89.06334,
+    "desc": "Rochelle Community Hospital </br> Address: 900 North Second Street Rochelle, IL 61068 </br> Type of Facility: Critical Access </br> Type of Control: Voluntary Nonprofit </br> Total Staffed Beds: 17 </br> Heliport: 2"
   },
   {
-    "lat": 41.982383,
-    "long": -89.225328,
-    "desc": "Oregon Fire Department - Chana Station </br> Station: 2 of 2 </br> Type: Career/POC </br> MABAS Division: 18 - Ogle County </br> EMS: ALS </br> Dispatched by: Ogle County Sheriff's Department"
+    "lat": 41.96146,
+    "long": -88.72281,
+    "desc": "Northwestern Medicine - Kishwaukee Community Hospital </br> Address: 1 Kish Hospital Dr, DeKalb, IL, 60115 </br> Type of Facility: General Hospital </br> Type of Control: Corporation </br> Total Staffed Beds: 98 </br> Heliport: 1"
+  },
+  {
+    "lat": 37.42240,
+    "long": -88.35179,
+    "desc": "Hardin County General Hospital & Clinic </br> Address: 6 Ferrell Rd, Rosiclare, IL </br> Type of Facility: Critical Access </br> Type of Control: Voluntary, Non-profit </br> Total Staffed Beds: 25 </br> Heliport: 1"
   }
 ]
